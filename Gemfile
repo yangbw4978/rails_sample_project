@@ -48,4 +48,5 @@ end
 group :test do
   gem 'selenium-webdriver', '2.0.0'
   gem 'capybara', '2.1.0'
+  gem 'zip'
 end
